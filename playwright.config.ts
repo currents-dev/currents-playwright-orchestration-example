@@ -18,7 +18,6 @@ const config = defineConfig({
   projects: [
     {
       name: "chromim",
-
       use: {
         ...devices["Desktop Chrome"],
       },
