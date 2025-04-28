@@ -22,7 +22,7 @@ function getRandomWaitTime(minMs = 30 * 1000, maxMs = 120 * 1000) {
 
 const results = [];
 
-// 30 long specs: 1.5-2m
+// 40 long specs: 110-120s
 for (let i = 1; i <= 40; i++) {
   const waitTime = getRandomWaitTime(110 * 1000, 120 * 1000);
   results.push({
@@ -30,17 +30,8 @@ for (let i = 1; i <= 40; i++) {
     waitTime,
   });  
 }
-// 
-// 50 short// 30 mid-length specs: 45-90s
-// for (let i = 1; i <= 30; i++) {
-//   const waitTime = getRandomWaitTime(45 * 1000, 90 * 1000);
-//    results.push({
-//     name: `${getRandomSpecName()}.spec.ts`,
-//     waitTime,
-//   });
-// }
 
-//  specs: 10-30s
+// 40 short spec: 10-30s
 for (let i = 1; i <= 40; i++) {
   const waitTime = getRandomWaitTime(10 * 1000, 30 * 1000);
    results.push({
