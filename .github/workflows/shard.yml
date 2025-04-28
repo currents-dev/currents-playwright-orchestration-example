@@ -1,4 +1,4 @@
-name: playwright-end-to-end-orchestrated-tests
+name: playwright-end-to-end-shard-tests
 on:
   workflow_dispatch:
   pull_request:
@@ -43,7 +43,6 @@ jobs:
           CURRENTS_PROJECT_ID: dJeKhI
           CURRENTS_RECORD_KEY: ${{ secrets.CURRENTS_RECORD_KEY }}
           CURRENTS_CI_BUILD_ID: ${{ github.repository }}-${{ github.run_id }}-${{ github.run_attempt }}
-          COMMIT_INFO_MESSAGE: "pwc-p: ${{ github.event.head_commit.message }}" 
 
         # Run the sharded tests
         run: |
