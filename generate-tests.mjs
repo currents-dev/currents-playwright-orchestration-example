@@ -6,8 +6,8 @@ if (!existsSync(specsDir)) {
   mkdirSync(specsDir);
 }
 
-for (let i = 1; i <= 50; i++) {
-  const waitTime = getRandomWaitTime(); // Random ms between 1m and 2m
+for (let i = 51; i <= 70; i++) {
+  const waitTime = getRandomWaitTime(90*1000, 120*1000);
   const content = `
 import { test } from '@playwright/test';
 
