@@ -13,7 +13,7 @@ See the demo video: https://www.loom.com/share/d62d80e4d5034498982c79a368488fcd?
 - workers: 3
 - machines: 5
 - overall duration: **7m 17s**
-- 
+
 ![currents-2025-04-28-14 36 40@2x](https://github.com/user-attachments/assets/d9880a27-5c8f-4841-b513-a092932d3937)
 
 
@@ -22,5 +22,5 @@ See the demo video: https://www.loom.com/share/d62d80e4d5034498982c79a368488fcd?
 - workers: 3
 - machines: 5
 - overall duration: **6m 44s**
-- 
+
 ![currents-2025-04-28-14 33 58@2x](https://github.com/user-attachments/assets/8794c0f4-a8dc-4dfd-8c09-283ea5f8b182)
