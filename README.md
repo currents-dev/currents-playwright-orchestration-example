@@ -23,13 +23,15 @@ It is recommended to set `batchSize = workers`
 - machines: 5
 - overall duration: **15m 38s**
 
-![currents-2025-04-28-14 36 40@2x](https://github.com/user-attachments/assets/d9880a27-5c8f-4841-b513-a092932d3937)
+![currents-2025-04-28-16 38 18@2x](https://github.com/user-attachments/assets/2ab6b34a-634d-46a3-810b-bbfa4487cd20)
+
 
 ### Currents Batched Orchestration
 
-- batch size: 3
-- workers: 3
+- batch size: 2
+- workers: 2
 - machines: 5
 - overall duration: **9m 17s** (~41% improvement)
 
-![currents-2025-04-28-14 33 58@2x](https://github.com/user-attachments/assets/8794c0f4-a8dc-4dfd-8c09-283ea5f8b182)
+![currents-2025-04-28-16 39 34@2x](https://github.com/user-attachments/assets/206a87f1-3f1d-4bcd-bb96-88855acd455d)
+
