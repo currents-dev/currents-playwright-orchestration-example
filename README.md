@@ -1,6 +1,15 @@
 # currents-playwright-orchestration-example
 
-See the demo video: https://www.loom.com/share/d62d80e4d5034498982c79a368488fcd?sid=4e00274d-9b64-4d41-87ae-c9a270173a18
+[Demo video](https://www.loom.com/share/5d701526d61b4ce383a2d79faa350731?sid=3121101c-5453-4b9d-afd1-8c8749e7d458)
+
+Available in the recent beta version `npm i @currents/playwright@beta` (`@currents/playwright@1.30.0-beta.0`) 
+
+### Configuring Batch Size
+
+It is recommended to set `batchSize = workers`
+- Use `--pwc-batch-size` CLI params, e.g.: `pwc-p --pwc-batch-size=3`
+- Set environment variable `CURRENTS_BATCH_SIZE` e.g.: `CURRENTS_BATCH_SIZE=3`
+- Set the values in `currents.confg.ts`, e.g.: `orchestration.batchSize: 3`
 
 ### Suite Composition
 
