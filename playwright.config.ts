@@ -9,7 +9,7 @@ const config = defineConfig({
   },
 
   retries: 0,
-  workers: 3,
+  workers: 1,
 
   use: {
     actionTimeout: 0,
