@@ -2,7 +2,7 @@
 
 [Demo video](https://www.loom.com/share/e2a4ec0167d74e69b9f07d45707cf0f4?sid=b003d756-0e5d-400d-b2a8-3279b63804f2)
 
-Available in the recent beta version `npm i @currents/playwright@beta` (`@currents/playwright@1.30.0-beta.0`)
+Available in the recent beta version `npm i @currents/playwright@beta` (`@currents/playwright@1.13.0-beta.0`)
 
 ### Configuring Batch Size
 
