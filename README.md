@@ -1,4 +1,4 @@
-# currents-playwright-orchestration-example
+# Improving Playwright Sharding - Currents Orchestration Example
 
 [Demo video](https://www.loom.com/share/5d701526d61b4ce383a2d79faa350731?sid=3121101c-5453-4b9d-afd1-8c8749e7d458)
 
