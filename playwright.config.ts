@@ -9,7 +9,7 @@ const config = defineConfig({
   },
 
   retries: 0,
-  workers: 3,
+  workers: 2,
 
   use: {
     actionTimeout: 0,
@@ -18,6 +18,7 @@ const config = defineConfig({
   projects: [
     {
       name: "chromim",
+      testDir: "./edge-case-tests",
       use: {
         ...devices["Desktop Chrome"],
       },
