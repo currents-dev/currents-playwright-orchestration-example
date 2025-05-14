@@ -17,7 +17,7 @@ const config = defineConfig({
 
   projects: [
     {
-      name: "chromim",
+      name: "chromium",
       testDir: "./tests",
       use: {
         ...devices["Desktop Chrome"],
