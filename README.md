@@ -1,4 +1,4 @@
-# Improving Playwright Sharding - Currents Orchestration Example
+# Currents Orchestration Example
 
 [Demo video](https://www.loom.com/share/e2a4ec0167d74e69b9f07d45707cf0f4?sid=b003d756-0e5d-400d-b2a8-3279b63804f2)
 
@@ -25,7 +25,6 @@ It is recommended to set `batchSize = workers`
 
 ![currents-2025-04-28-16 38 18@2x](https://github.com/user-attachments/assets/2ab6b34a-634d-46a3-810b-bbfa4487cd20)
 
-
 ### Currents Batched Orchestration
 
 - batch size: 2
@@ -34,4 +33,3 @@ It is recommended to set `batchSize = workers`
 - overall duration: **9m 17s** (~41% improvement) 🏎️
 
 ![currents-2025-04-28-16 39 34@2x](https://github.com/user-attachments/assets/206a87f1-3f1d-4bcd-bb96-88855acd455d)
-
