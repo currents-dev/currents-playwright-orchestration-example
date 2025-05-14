@@ -18,7 +18,7 @@ const config = defineConfig({
   projects: [
     {
       name: "chromim",
-      testDir: "./edge-case-tests",
+      testDir: "./tests",
       use: {
         ...devices["Desktop Chrome"],
       },
