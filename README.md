@@ -1,3 +1,15 @@
+# ⚠️ ARCHIVED REPOSITORY ⚠️
+
+> **This repository is now archived and read-only.**
+>
+> For the latest examples and updates, please visit our new repository:
+>
+> # [👉 https://github.com/currents-dev/currents-examples](https://github.com/currents-dev/currents-examples/tree/main/playwright/orchestration)
+
+---
+
+
+
 # Currents Orchestration Example
 
 [Demo video](https://www.loom.com/share/e2a4ec0167d74e69b9f07d45707cf0f4?sid=b003d756-0e5d-400d-b2a8-3279b63804f2)
